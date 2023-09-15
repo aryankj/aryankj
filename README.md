@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Jha</h1>
-<h3 align="center">A first-year student at Calvin University passionate about Computer Science and Math</h3>
+<h3 align="center">A junior at Calvin University passionate about Computer Science and Math</h3>
 
 - 🌱 I’m currently learning **React Native, C#, Algorithms, Real Analysis**
 
