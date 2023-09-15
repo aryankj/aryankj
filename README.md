@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Jha</h1>
 <h3 align="center">A first-year student at Calvin University passionate about Computer Science and Math</h3>
 
-- 🌱 I’m currently learning **Programming Language Concepts & Computational Bayesian Statistics**
+- 🌱 I’m currently learning **React Native, C#, Algorithms, Real Analysis**
 
 - 💬 Ask me about **Python, Object Oriented Programming, Mathematics**
 
